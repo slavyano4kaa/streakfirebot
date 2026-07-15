@@ -1,3 +1,5 @@
+# The project is permanently closed and will no longer be updated. This page is for portfolio use only.
+
 # 🔥 Streak Bot (@streakfirebot)
 
 **Streak Bot** is a high-performance Telegram Business companion designed to gamify daily communication. By leveraging the native Telegram Business API, it automatically tracks and visualizes "streaks" (consecutive days of messaging) with stunning, evolving animations.
